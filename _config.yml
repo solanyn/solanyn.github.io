@@ -1,14 +1,18 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Andrew Chen
+bio:                'Master of Data Science Student at RMIT University'
+description:        "I am a current Master of Data Science student at RMIT University. I will be graduating at the end of 2020.
+
+I am currently participating in the Melbourne Datathon 2019 Data2App category where my team and I are building a tool to help sugarcane farmers schedule harvests using satellite imagery.
+
+I\'m currently looking for internships and graduate roles in a data science position."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://solanyn.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -38,19 +42,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+github-url:         solanyn
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          andrew-chen-3a6b12163
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
