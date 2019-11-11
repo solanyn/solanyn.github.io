@@ -1,18 +1,14 @@
 # Site
 title:              Andrew Chen
 bio:                'Master of Data Science Student at RMIT University'
-description:        "I am a current Master of Data Science student at RMIT University. I will be graduating at the end of 2020.
-
-I am currently participating in the Melbourne Datathon 2019 Data2App category where my team and I are building a tool to help sugarcane farmers schedule harvests using satellite imagery.
-
-I'm currently looking for internships and graduate roles in a data science position."
+description:        "Data Science student looking for new opportunities."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://solanyn.github.io/
+url:                https://solanyn.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -30,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   solanyn
 
 # Social
 # if you don't have any of social below, comment the line.
