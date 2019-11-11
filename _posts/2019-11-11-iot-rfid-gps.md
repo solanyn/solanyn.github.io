@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IoT RFID + GPS Device"
-date:   11/11/2019
+date:   2019-11-11
 excerpt: "An IoT RFID and GPS Device for Sports Tracking Events"
 project: true
 tag:
