@@ -12,7 +12,8 @@ comments: false
 
 ## Summary
 
-Status: Completed
+Status: Completed  
+
 GitHub: https://github.com/solanyn/property-prediction
 
 This project aims to predict the value of property in Melbourne, Australia using spatial features and physical features and trained using a cleaned dataset. Data for properties to predict on was obtained using the Domain API. Data will be cleaned manually as well as generating new features from auxiliary data sets. Various machine learning models will be evaluated to predict prices and the best performing model will be implemented. Results and finding will be deployed as a web application hosted on AWS.
